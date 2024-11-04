@@ -29,14 +29,29 @@
 }
 
 .inst #u131757 {
+    border-radius: 50%;
     width: 36px;
     height: 36px;
-    border-radius: 50%;
-    margin-top: 2px;
+    margin-top: 4px;
+    margin-left: 1px;
 }
 
 .inst #u131754 {
     background: linear-gradient(to right,rgba(226, 50, 124, 0.41) ,#000000 100%);
 }
 
+/* .marclear #u131756::after {
+    content: '';
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    display: block;
+    background-image: url('/images/abfb4f50d7a8aaf6842a6c4320699714.gif');
+    top: 0;
+    z-index: 10000000000000;
+}
+
+.marclear #u131756 {
+    position: relative
+} */
 
