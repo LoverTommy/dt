@@ -23,3 +23,20 @@
     z-index: 10;
     position: relative;
 }
+
+.marclear {
+    margin-top: 20px !important;
+}
+
+.inst #u131757 {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    margin-top: 2px;
+}
+
+.inst #u131754 {
+    background: linear-gradient(to right,rgba(226, 50, 124, 0.41) ,#000000 100%);
+}
+
+
