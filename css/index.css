@@ -39,4 +39,12 @@
     background: linear-gradient(to right,rgba(226, 50, 124, 0.41) ,#000000 100%);
 }
 
+.ui-stackmenu li:first-child {
+    top: -70px !important;
+}
+
+.ui-stackmenu li:last-child {
+    top: -140px !important;
+}
+
 
